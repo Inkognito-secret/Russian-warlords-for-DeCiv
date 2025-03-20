@@ -17,15 +17,7 @@
 		"introduction": "Greetings, I am the embodiment of the will and the people of Eurasia. Let's discuss our meeting in more detail.",
 		
 		"neutralHello": "I'm listening",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
 		"hateHello": "I'm listening, Atlanticist.",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
 		"afterPeace": "You have proved your right to independence. Let's end this war.",
 		"tradeRequest": "The riches of Eurasia are right in front of you, what do you have to offer us?",
 
@@ -56,5 +48,14 @@
 			"Aelit",
 			"Glaz Eurasii"
 		],
+		"spyNames": [
+			"Yuri",
+			"Sobol",
+			"Saiga",
+			"Gerasim",
+			"Bahrpolm",
+			"Lapty",
+			"Kostya",
+		]
 	}
 ]
