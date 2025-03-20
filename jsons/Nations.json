@@ -29,7 +29,13 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "The Eurasian Dream",
+		"uniqueName": "The Eurasian Dream",
+		"uniques": [
+			"Starts with [Supremacy] adopted",
+			"Starts with [Writing]",
+			"[-1 Happiness] [in all cities]",
+			"[+15]% Production when constructing [Military] units [in all cities]",
+			"[+15]% [Culture] [in all cities]"
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
