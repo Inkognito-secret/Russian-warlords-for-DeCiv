@@ -5,9 +5,11 @@
 		"adjective": ["."],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
+		"personality": "Passionary",
+		"favoredReligion": "Idolatry",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "The great people of the future Eurasia! This day has come! The remnants of the past world have finally been thrown off our nation, for the sake of the arrival of a common superethnos! There will be no Russians, Dagestanis, Bashkirs and other microethnoses from this moment on! From this moment on, we are all one Eurasian ethnic group!",
+		"startIntroPart2": "Despite our triumph, the enemy is not asleep. Therefore, I, chief Passionary Dugilev, urge you to prepare for new wars and trials, Eurasia must stand at any cost.",
 		
 		"declaringWar": "This will be another victory for Eurasia.",
 		"attacked": "Are the Atlanticists and their minions challenging us? Never mind, we're ready to meet him.",
@@ -36,9 +38,23 @@
 			"[-1 Happiness] [in all cities]",
 			"[+15]% Production when constructing [Military] units [in all cities]",
 			"[+15]% [Culture] [in all cities]"
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		],
+		"cities": [
+			"Dugilevsk",
+			"Holmino",
+			"Passionary",
+			"Wzor-na-prava",
+			"Zastava",
+			"Institut imeni Sorova",
+			"Wzor-na-levo",
+			"Miaas",
+			"Uamantau",
+			"Skifia",
+			"Nowy poruadok",
+			"Tura",
+			"Ufa",
+			"Aelit",
+			"Glaz Eurasii"
+		],
 	}
 ]
