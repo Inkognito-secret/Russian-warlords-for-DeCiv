@@ -1,25 +1,63 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "Passionaries' Palace",
+		"isWonder": true,
+		"uniqueTo": "Eurasia",
+		"gold": 2,
+		"culture": 2,
+		"happiness": 1,
+		"cost": 0,
+		"uniques": [
+			"Provides [1] [Power]",
+			"Provides [2] [Weapons]",
+			"[2] free [Son of Eurasia] appears",
+			"Can only be built <in [Capital] cities>",
+			"Gain a free [Food Store] [in this city]",
+			"Automatically built in all cities where it is buildable"
+		],
+		"quote": "Now I turn to the most worthy of the worthy. Carry the will of Eurasia with pen and sword and work for our common good.",
+		"civilopediaText": [
+			{
+				"text": "Now I turn to the most worthy of the worthy. Carry the will of Eurasia with pen and sword and work for our common good."
+			}
+		]
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
-	}
+		"name":"Chitalna",
+		"replaces": "Library",
+		"uniqueTo": "Eurasia",
+		"culture": 1,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"[+1 Science] per [2] population [in this city]",
+			"[+1 Science] [in this city] <when above [0] [Power]>",
+			"[+2 Science] from [Books] tiles [in this city]",
+		],
+	},
+	{
+		"name": "Retrain survivors",
+		"replaces": "Search for Survivors",
+		"uniqueTo": "Eurasia",
+		"cost": 40,
+		"isNationalWonder": true,
+		"uniques": [
+			"[+2] population [in this city]",
+			"Gain a free [Chitalna] [in this city]"],
+		],
+	},
+	{
+		"name": "Subpassional quarter",
+		"replaces": "Prison Camp",
+		"uniqueTo": "Crimson Line",
+		"hurryCostModifier": 25,
+		"production": -1,
+		"happiness": -1,
+		"uniques": [
+			"Remove extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>",
+			"Provides [2] [Slaves]",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Construction"
+	},
 ]
