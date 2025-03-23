@@ -60,5 +60,80 @@
 		"requiredTech": "Construction"
 	},
 	{
+		"name": "Institute of Eurasia",
+		"replaces": "University",
+		"uniqueTo": "Eurasia",
+		"culture": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 1},
+		"uniques": [
+			"[+1 Science] from [Jungle] tiles [in this city]",
+			"[+1 Science] from [Forest] tiles [in this city]",
+			"[+1 Science] from [Sunken Ruins] tiles [in this city]",
+			"Only available <in cities with a [Library]>",
+			"[+2 Science, +1 Culture] [in this city] <when above [0] [Power]>"
+		],
+		"requiredTech": "Education"
+	},
+	{
+		"name": "Uchiliche",
+		"replaces": "Public School",
+		"uniqueTo": "Eurasia",
+		"science": 1,
+		"culture": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 0,
+		"uniques": ["[+1 Science] per [2] population [in this city] <after discovering [Networking]>",
+			"[+1 Science] [in this city] <when above [0] [Power]>",
+			"Only available <in cities with a [Library]>"
+		],
+		
+		"requiredTech": "Civil Service"
+	},
+	{
+		"name": "Eurasian Duma",
+		"replaces": "Congress",
+		"uniqueTo": "Eurasia",
+		"cost": 100,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+1 Culture, +1 Gold] per [4] population [in all cities]",
+			"[-5]% Unhappiness from [Population] [in all cities]",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Council]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Sovet Passionaries",
+		"replaces": "Council",
+		"uniqueTo": "Eurasia",
+		"cost": 100,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+10]% growth [in all cities]",
+			"[+5]% Production when constructing [All] buildings [in this city]",
+			"[+50]% Production when constructing [Culture] buildings [in all cities]",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Congress]>",
+			"Destroyed when the city is captured"
+		],
+	},
+	{
+		"name": "Armory",
+		"hurryCostModifier": 25,
+		"requiredTech": "Hoplology",
+		"uniques": [
+			"New [Military] units start with [15] XP [in this city]",
+			
+			"[+1 Production] from [Weapons] tiles [in this city]",
+			"Destroyed when the city is captured"
+		]
+	},
+		
 		
 ]
