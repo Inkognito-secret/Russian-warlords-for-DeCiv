@@ -43,7 +43,6 @@
 		"uniques": [
 			"[+2] population [in this city]",
 			"Gain a free [Chitalna] [in this city]"],
-		],
 	},
 	{
 		"name": "Subpassional quarter",
@@ -60,4 +59,6 @@
 		],
 		"requiredTech": "Construction"
 	},
+	{
+		
 ]
