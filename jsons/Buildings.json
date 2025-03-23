@@ -47,7 +47,8 @@
 	{
 		"name": "Subpassional quarter",
 		"replaces": "Prison Camp",
-		"uniqueTo": "Crimson Line",
+		"uniqueTo": "Eurasia",
+		"cost": 50,
 		"hurryCostModifier": 25,
 		"production": -1,
 		"happiness": -1,
@@ -63,6 +64,7 @@
 		"name": "Institute of Eurasia",
 		"replaces": "University",
 		"uniqueTo": "Eurasia",
+		"cost": 80,
 		"culture": 2,
 		"maintenance": 1,
 		"hurryCostModifier": 15,
@@ -81,6 +83,7 @@
 		"name": "Uchiliche",
 		"replaces": "Public School",
 		"uniqueTo": "Eurasia",
+		"cost": 80,
 		"science": 1,
 		"culture": 2,
 		"maintenance": 1,
@@ -125,6 +128,9 @@
 	},
 	{
 		"name": "Armory",
+		"replaces": "Armory",
+		"uniqueTo": "Eurasia",
+		"cost": 120,
 		"hurryCostModifier": 25,
 		"requiredTech": "Hoplology",
 		"uniques": [
