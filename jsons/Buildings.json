@@ -29,7 +29,7 @@
 		"culture": 1,
 		"hurryCostModifier": 25,
 		"uniques": [
-			"[+1 Science] per [2] population [in this city]",
+			"[+1 Science] per [3] population [in this city]",
 			"[+1 Science] [in this city] <when above [0] [Power]>",
 			"[+2 Science] from [Books] tiles [in this city]",
 		],
@@ -55,7 +55,7 @@
 		"uniques": [
 			"Remove extra unhappiness from annexed cities",
 			"Provides [2] [Slaves]",
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured",
 		],
 		"requiredTech": "Construction"
 	},
@@ -67,7 +67,7 @@
 		"culture": 2,
 		"maintenance": 1,
 		"hurryCostModifier": 15,
-		"percentStatBonus": {"science": 33},
+		"percentStatBonus": {"science": 23},
 		"specialistSlots": {"Scientist": 1},
 		"uniques": [
 			"[+1 Science] from [Jungle] tiles [in this city]",
@@ -118,7 +118,7 @@
 		"uniques": [
 			"[+10]% growth [in all cities]",
 			"[+5]% Production when constructing [All] buildings [in this city]",
-			"[+50]% Production when constructing [Culture] buildings [in all cities]",
+			"[+25]% Production when constructing [Culture] buildings [in all cities]",
 			"Only available <if [Search for Survivors] is constructed>",
 			"Can only be built <in [Capital] cities>",
 			"Only available <in cities without a [Congress]>",
