@@ -127,7 +127,7 @@
 		],
 	},
 	{
-		"name": "Armory",
+		"name": "Woeny sklad",
 		"replaces": "Armory",
 		"uniqueTo": "Eurasia",
 		"cost": 120,
@@ -135,11 +135,9 @@
 		"requiredTech": "Hoplology",
 		"uniques": [
 			"New [Military] units start with [15] XP [in this city]",
-			
+			"[+10]% Production when constructing [Military] units [in this city]",
 			"[+1 Production] from [Weapons] tiles [in this city]",
 			"Destroyed when the city is captured"
 		]
-	},
-		
-		
+	},	
 ]
