@@ -79,7 +79,7 @@
 		"requiredTech": "Education"
 	},
 	{
-		"name": "Uchiliche",
+		"name": "Uchilishe",
 		"replaces": "Public School",
 		"uniqueTo": "Eurasia",
 		"cost": 80,
@@ -103,6 +103,9 @@
 		"uniques": [
 			"[+1 Culture, +1 Gold] per [4] population [in all cities]",
 			"[-5]% Unhappiness from [Population] [in all cities]",
+			"[+1 Culture] from every [Uchilishe]",
+			"[+1 Culture] from every [Institute of Eurasia]",
+			"[+1 Culture] from every [Chitalna]",
 			"Only available <if [Search for Survivors] is constructed>",
 			"Can only be built <in [Capital] cities>",
 			"Only available <in cities without a [Council]>",
