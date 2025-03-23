@@ -34,4 +34,26 @@
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
+	{
+		"name": "Fist of Eurasia",
+		"unitType": "Armor",
+		"replaces": "Tank",
+		"uniqueTo": "Eurasia",
+		"movement": 4,
+		"strength": 65,
+		"cost": 270,
+		"requiredTech": "Combined Arms",
+		"upgradesTo": "Modern Armor",
+		"obsoleteTech": "Full-Spectrum Dominance",
+		"uniques": [
+		    "[+10]% Strength <when attacking>",
+			"Can move after attacking",
+			"[-15]% Strength <vs cities> <when attacking>",
+			"No defensive terrain bonus",
+			"Only available <if [Factory] is constructed>",
+			"Consumes [1] [Oil]"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "tankshot"
+	},
 ]
