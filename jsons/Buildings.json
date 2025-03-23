@@ -54,7 +54,6 @@
 		"happiness": -1,
 		"uniques": [
 			"Remove extra unhappiness from annexed cities",
-			"Can only be built <in [Annexed] cities>",
 			"Provides [2] [Slaves]",
 			"Destroyed when the city is captured"
 		],
@@ -130,7 +129,7 @@
 		"name": "Woeny sklad",
 		"replaces": "Armory",
 		"uniqueTo": "Eurasia",
-		"cost": 120,
+		"cost": 220,
 		"hurryCostModifier": 25,
 		"requiredTech": "Hoplology",
 		"uniques": [
