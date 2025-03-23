@@ -105,12 +105,12 @@
 			"[+1 Culture] from every [Uchilishe]",
 			"[+1 Culture] from every [Institute of Eurasia]",
 			"[+1 Culture] from every [Chitalna]",
-			"[-5]% Unhappiness from [Specialists] [in all cities]"],
+			"[-5]% Unhappiness from [Specialists] [in all cities]",
 			"Only available <if [Search for Survivors] is constructed>",
 			"Can only be built <in [Capital] cities>",
 			"Only available <in cities without a [Council]>",
 			"Destroyed when the city is captured"
-		]
+		],
 	},
 	{
 		"name": "Sovet Passionaries",
@@ -142,6 +142,6 @@
 			"[+10]% Production when constructing [Military] units [in this city]",
 			"[+1 Production] from [Weapons] tiles [in this city]",
 			"Destroyed when the city is captured"
-		]
+		],
 	},	
 ]
