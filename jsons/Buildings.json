@@ -10,7 +10,7 @@
 		"uniques": [
 			"Provides [1] [Power]",
 			"Provides [2] [Weapons]",
-			"[2] free [Son of Eurasia] appears",
+			"[2] free [] units appear",
 			"Can only be built <in [Capital] cities>",
 			"Gain a free [Food Store] [in this city]",
 			"Automatically built in all cities where it is buildable"
@@ -26,6 +26,7 @@
 		"name":"Chitalna",
 		"replaces": "Library",
 		"uniqueTo": "Eurasia",
+		"cost": 45,
 		"culture": 1,
 		"hurryCostModifier": 25,
 		"uniques": [
