@@ -21,8 +21,8 @@
 		"afterPeace": "You have proved your right to independence. Let's end this war.",
 		"tradeRequest": "The riches of Eurasia are right in front of you, what do you have to offer us?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [181,168,25],
+		"innerColor": [10,11,20],
 		"uniqueName": "The Eurasian Dream",
 		"uniques": [
 			"Starts with [Supremacy] adopted",
