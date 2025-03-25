@@ -107,6 +107,7 @@
 			"[+1 Culture] from every [Institute of Eurasia]",
 			"[+1 Culture] from every [Chitalna]",
 			"[-5]% Unhappiness from [Specialists] [in all cities]",
+			"[+25]% Great Person generation [in all cities]",
 			"Only available <if [Search for Survivors] is constructed>",
 			"Can only be built <in [Capital] cities>",
 			"Only available <in cities without a [Council]>",
