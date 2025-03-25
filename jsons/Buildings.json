@@ -9,7 +9,7 @@
 		"cost": 0,
 		"uniques": [
 			"Provides [1] [Power]",
-			"Provides [2] [Weapons]",
+			"Provides [1] [Weapons]",
 			"[2] free [Son of Eurasia] units appear",
 			"Can only be built <in [Capital] cities>",
 			"Gain a free [Food Store] [in this city]",
@@ -55,7 +55,7 @@
 		"happiness": -1,
 		"uniques": [
 			"Remove extra unhappiness from annexed cities",
-			"Provides [2] [Slaves]",
+			"Provides [1] [Slaves]",
 			"Destroyed when the city is captured",
 		],
 		"requiredTech": "Construction"
@@ -102,11 +102,11 @@
 		"cost": 100,
 		"requiredTech": "Civil Service",
 		"uniques": [
-			"[+1 Culture, +1 Gold] per [5] population [in all cities]",
+			"[+1 Culture, +1 Gold] per [4] population [in all cities]",
 			"[+1 Culture] from every [Uchilishe]",
 			"[+1 Culture] from every [Institute of Eurasia]",
 			"[+1 Culture] from every [Chitalna]",
-			"[-5]% Unhappiness from [Specialists] [in all cities]",
+			"[-10]% Unhappiness from [Specialists] [in all cities]",
 			"[+25]% Great Person generation [in all cities]",
 			"Only available <if [Search for Survivors] is constructed>",
 			"Can only be built <in [Capital] cities>",
@@ -122,10 +122,10 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"[+10]% growth [in all cities]",
-			"[+10]% Production when constructing [All] buildings [in this city]",
-			"[+25]% Production when constructing [Culture] buildings [in all cities]",
+			"[+10]% Production when constructing [All] buildings [in all cities]",
 			"[+15]% Strength <for [Land] units> <when fighting in [Enemy Land] tiles>",
 			"[+10]% Production when constructing [Military] units [in all cities]",
+			"Earn [10]% of the damage done to [Military] units as [Culture]",
 			"Only available <if [Search for Survivors] is constructed>",
 			"Can only be built <in [Capital] cities>",
 			"Only available <in cities without a [Congress]>",
