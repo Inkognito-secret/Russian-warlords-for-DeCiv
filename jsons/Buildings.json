@@ -137,7 +137,6 @@
 		"replaces": "Broadcast Tower",
 		"uniqueTo": "Eurasia",
 		"happiness": 3,
-		"hurryCostModifier": 25,
 		"percentStatBonus": { "culture": -15 },
 		"uniques": ["Consumes [1] [Power]"],
 	},	
