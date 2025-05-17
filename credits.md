@@ -13,3 +13,5 @@ The following is from [freesound] (https://freesound.org) licensed under the Cre
 * [Propaganda] from https://thenounproject.com/creator/nicolasrokhman/
 * [Slums] from https://thenounproject.com/creator/vichoap/
 * [College] from https://thenounproject.com/creator/amoghdesign/
+* [passion] from https://thenounproject.com/creator/bedon28/
+* [conferense] from https://thenounproject.com/creator/jesus53/
