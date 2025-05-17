@@ -115,7 +115,7 @@
 		],
 	},
 	{
-		"name": "Sovet Passionaries",
+		"name": "Soviet Passionaries",
 		"replaces": "Council",
 		"uniqueTo": "Eurasia",
 		"cost": 100,
