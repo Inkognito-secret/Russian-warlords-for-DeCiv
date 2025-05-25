@@ -138,8 +138,9 @@
 		"replaces": "Broadcast Tower",
 		"uniqueTo": "Eurasia",
 		"cost": 200,
-		"happiness": 3,
-		"percentStatBonus": { "culture": -15 },
+		"requiredTech": "Radio"
+		"happiness": 2,
+		"percentStatBonus": { "culture": -10 },
 		"uniques": ["Consumes [1] [Power]"],
 	},	
 ]
