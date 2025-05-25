@@ -142,5 +142,23 @@
 		"happiness": 2,
 		"percentStatBonus": { "culture": -10 },
 		"uniques": ["Consumes [1] [Power]"],
-	},	
+	},
+	{
+		"name": "Social laboratories",
+		"replaces": "Research Lab",
+		"uniqueTo": "Eurasia",
+		"culture": 2,
+		"percentStatBonus": { "science": 45 },
+		"specialistSlots": { "Administrator": 1 },
+		"specialistSlots": { "Scientist": 1 },
+		"greatPersonPoints": { "Great Administrator": 1 },
+		"maintenance": 1,
+		"uniques": [
+			"Only available <in cities with a [University]>",
+			"[+25]% Production when constructing [Promotion Nullifier] units [in this city]",
+			"Consumes [1] [Power]"
+		],
+		"requiredTech": "Laboratory"
+	},
+	{
 ]
