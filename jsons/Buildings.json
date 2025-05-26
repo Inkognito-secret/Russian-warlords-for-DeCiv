@@ -175,7 +175,5 @@
 			"Only available <when espionage is enabled>"
 		],
 		"requiredTech": "Radio"
-	},
-	{
-		
+	}
 ]
