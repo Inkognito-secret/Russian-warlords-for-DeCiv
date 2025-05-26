@@ -161,4 +161,21 @@
 		"requiredTech": "Laboratory"
 	},
 	{
+		"name": "Monitoring center",
+		"replaces": "Listening Post",
+		"uniqueTo": "Eurasia",
+		"maintenance": 1,
+		"happiness": 1,
+		"culture": 1,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"Remove extra unhappiness from annexed cities",
+			"[-25]% enemy spy effectiveness [in this city]",
+			"Destroyed when the city is captured",
+			"Only available <when espionage is enabled>"
+		],
+		"requiredTech": "Radio"
+	},
+	{
+		
 ]
