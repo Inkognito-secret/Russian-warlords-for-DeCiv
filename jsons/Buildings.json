@@ -116,7 +116,7 @@
 		],
 	},
 	{
-		"name": "Soviet Passionaries",
+		"name": "Sovet Passionaries",
 		"replaces": "Council",
 		"uniqueTo": "Eurasia",
 		"cost": 100,
@@ -134,7 +134,7 @@
 		],
 	},
 	{
-		"name": "Propaganda center",
+		"name": "Propaganda Center",
 		"replaces": "Broadcast Tower",
 		"uniqueTo": "Eurasia",
 		"cost": 200,
@@ -144,7 +144,7 @@
 		"uniques": ["Consumes [1] [Power]"],
 	},
 	{
-		"name": "Social laboratories",
+		"name": "Social Laboratories",
 		"replaces": "Research Lab",
 		"uniqueTo": "Eurasia",
 		"culture": 2,
@@ -161,7 +161,7 @@
 		"requiredTech": "Laboratory"
 	},
 	{
-		"name": "Monitoring center",
+		"name": "Monitoring Center",
 		"replaces": "Listening Post",
 		"uniqueTo": "Eurasia",
 		"maintenance": 1,
@@ -177,5 +177,14 @@
 		"requiredTech": "Radio"
 	},
 	{
-		
+		"name": "Center of Passionarity",
+		"replaces": "Media Center",
+		"uniqueTo": "Eurasia",
+		"happiness": 3,
+		"culture": 6,
+		"requiredNearbyImprovedResources": ["Books", "Data"],
+		"greatPersonPoints": { "Great Administrator": 2 },
+		"uniques": ["Consumes [1] [Power]"],
+		"requiredTech": "Networking"
+	},
 ]
