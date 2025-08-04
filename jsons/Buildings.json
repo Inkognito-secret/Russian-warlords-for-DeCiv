@@ -57,6 +57,7 @@
 		"uniques": [
 			"Remove extra unhappiness from annexed cities",
 			"Provides [1] [Slaves]",
+			"[+5]% Production when constructing [Civilian] units [in this city]",
 			"Destroyed when the city is captured",
 		],
 		"requiredTech": "Construction"
@@ -69,7 +70,7 @@
 		"culture": 1,
 		"maintenance": 1,
 		"hurryCostModifier": 15,
-		"percentStatBonus": {"science": 23},
+		"percentStatBonus": {"science": 33},
 		"specialistSlots": {"Scientist": 1},
 		"uniques": [
 			"[+1 Science] from [Jungle] tiles [in this city]",
@@ -93,8 +94,6 @@
 			"[+1 Science] [in this city] <when above [0] [Power]>",
 			"Only available <in cities with a [Library]>"
 		],
-		
-		"requiredTech": "Civil Service"
 	},
 	{
 		"name": "Eurasian Duma",
@@ -155,7 +154,6 @@
 		"maintenance": 1,
 		"uniques": [
 			"Only available <in cities with a [University]>",
-			"[+25]% Production when constructing [Promotion Nullifier] units [in this city]",
 			"Consumes [1] [Power]"
 		],
 		"requiredTech": "Laboratory"
