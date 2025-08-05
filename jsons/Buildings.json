@@ -101,13 +101,13 @@
 		"uniqueTo": "Eurasia",
 		"cost": 100,
 		"requiredTech": "Civil Service",
+		"percentStatBonus": { "culture": 40 },
 		"uniques": [
 			"[+1 Culture, +1 Gold] per [4] population [in all cities]",
 			"[+1 Culture] from every [Uchilishe]",
 			"[+1 Culture] from every [Institute of Eurasia]",
 			"[+1 Culture] from every [Chitalna]",
 			"[-10]% Unhappiness from [Specialists] [in all cities]",
-			"[+25]% Great Person generation [in all cities]",
 			"Only available <if [Search for Survivors] is constructed>",
 			"Can only be built <in [Capital] cities>",
 			"Only available <in cities without a [Council]>",
@@ -138,8 +138,7 @@
 		"uniqueTo": "Eurasia",
 		"cost": 200,
 		"requiredTech": "Radio"
-		"happiness": 2,
-		"percentStatBonus": { "culture": -10 },
+		"happiness": 3,
 		"uniques": ["Consumes [1] [Power]"],
 	},
 	{
